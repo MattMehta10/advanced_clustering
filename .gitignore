@@ -1,3 +1,10 @@
 venv/
 __pycache__/
 *.pyc
+# Ignore IDE/editor configs
+.vscode/
+.idea/
+
+# Ignore OS clutter
+.DS_Store
+Thumbs.db
